@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">M-Museo</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_mail">Enter mail</string>
+    <string name="enter_cell_number">Enter cell number</string>
+    <string name="password">Password</string>
+    <string name="re_type_password">Re-type password</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="nameerror">Enter Valid Name</string>
+    <string name="emailerror">Enter Valid Email</string>
+    <string name="passworderror">Enter Valid Password</string>
+    <string name="mobileerror">Enter Valid Mobile Number</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_name2">Enter Name</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+</resources>
